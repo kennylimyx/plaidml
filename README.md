@@ -1,6 +1,4 @@
-# plaidml
-
-Plaidml macOS installation guide
+# Plaidml macOS installation guide
 
 1. Set up environment
 Set up a virtual environment using either venv or conda. I prefer conda
