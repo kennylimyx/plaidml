@@ -36,6 +36,6 @@ os.environ["KERAS_BACKEND"] = "plaidml.keras.backend"
 Once the model is compiled, you should see this:
 INFO:plaidml:Opening device "metal_intel(r)_hd_graphics_530.0"
 
-8. Check GPU acitvity using activity monitor
+Pro tip: Check GPU acitvity using activity monitor
 Launch activity monitor
 Go to window -> gpu history
