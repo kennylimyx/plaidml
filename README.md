@@ -1,5 +1,7 @@
 # Plaidml macOS installation guide
 
+Check out the full story here: https://kennylimyx.medium.com/quick-plaidml-macos-installation-guide-e1d4b9805e53
+
 1. Set up environment
 Set up a virtual environment using either venv or conda. I prefer conda
 
